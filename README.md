@@ -43,7 +43,7 @@
 ## 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=arduino,aws,bash,blender,c,cpp,css,django,dotnet,firebase,git,html,java,js,linux,mongodb,mysql,opencv,photoshop,py,pytorch,ruby,rust,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=arduino,aws,bash,blender,c,cpp,css,django,dotnet,firebase,git,html,java,js,linux,mongodb,mysql,opencv,photoshop,py,pytorch,ruby,rust,tensorflow,kali,matlab,vscode,vim,ubuntu,ros,raspberrypi,pycharm,powershell" />
 </p>
 
 ---
