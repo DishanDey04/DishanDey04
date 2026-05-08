@@ -7,13 +7,11 @@
   <img src="https://komarev.com/ghpvc/?username=DishanDey04&label=Profile%20views&color=0e75b6&style=flat" alt="DishanDey04" />
 </p>
 
-- 🔭 I’m currently working on **Quadruped Spider Bot**
+- 🔭 I’m currently working on [Quadruped Spider Bot](https://github.com/DishanDey04/Quadruped_Spider_Bot_12_DOF_V.6.0.git)
 - 🌱 I’m currently learning **ROS 2 and Gazebo**
-- 🤝 I’m looking for help with **Smart Grid (Power Management)**
+- 🤝 I’m looking for help with [Smart Grid (Power Management)](https://github.com/DishanDey04/Project_Smart_Grid.git)
 - 💬 Ask me about **Robotics and Mechatronics**
-- 📫 How to reach me: **dishan20604@gmail.com**
-- 📄 Know about my experiences:
-  [Resume](https://drive.google.com/file/d/1yfeLURcajA7lRt6CkcZzLM1qhrfuL_80/view?usp=sharing)
+- 📫 How to reach me **dishan20604@gmail.com**
 
 ---
 
