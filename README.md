@@ -95,7 +95,7 @@ me.say_hi()
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=DishanDey04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
 
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=DishanDey04&theme=tokyonight&hide_border=true&background=0D1117"/>
 
