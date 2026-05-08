@@ -23,7 +23,7 @@ class DishanDey():
         self.role = "Electrical Engineer"
         self.specialization = "Robotics & Competitive coding"
         self.language = ["Python", "C/C++", "JAVA"]
-        self.learning = ["ROS2", "Gazebo", "VLSI"]
+        self.learning = ["ROS 2", "Gazebo", "VLSI"]
         self.projects = ["Quadruped Spider Bot", "Smart Grid"]
 
     def say_hi(self):
