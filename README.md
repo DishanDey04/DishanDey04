@@ -33,6 +33,10 @@
   <a href="https://www.linkedin.com/in/dishan-dey-0b95aa301" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
+
+  <a href="mailto:dishan20604@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail"/>
+  </a>
 </p>
 
 
