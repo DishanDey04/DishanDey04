@@ -5,14 +5,14 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=ROS+2+%7C+GAZEBO+%7C+AI+ROBOTICS;POWER+SYSTEM+%26+SMART+GRID+ENGINEER;WELCOME+TO+MY+PROFILE" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=ROS+2+%7C+GAZEBO+%7C+ROBOTICS;POWER+SYSTEM+%26+SMART+GRID+ENGINEER;WELCOME+TO+MY+PROFILE" />
 </p>
 
 ---
 
 ### 🤖 ABOUT ME
 
-<img align="right" width="460" src="https://i.pinimg.com/originals/a6/07/9a/a6079a2c7f0052c2f588965881020f42.gif">
+<img align="right" width="50%" src="https://i.pinimg.com/originals/a6/07/9a/a6079a2c7f0052c2f588965881020f42.gif">
 
 ```python
 class DishanDey():
