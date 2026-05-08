@@ -12,11 +12,12 @@
 
 ### 🤖 ABOUT ME
 
-<img align="right" width="50%" src="https://i.pinimg.com/originals/a6/07/9a/a6079a2c7f0052c2f588965881020f42.gif">
+<table>
+<tr>
+<td width="55%">
 
 ```python
 class DishanDey():
-
     def __init__(self):
         self.name = "Dishan Dey"
         self.role = "Electrical Engineer"
@@ -28,10 +29,20 @@ class DishanDey():
     def say_hi(self):
         print("Thanks for visiting my futuristic profile 🚀")
 
-
 me = DishanDey()
 me.say_hi()
 ```
+
+</td>
+
+<td width="45%" align="center">
+
+<img width="100%" src="https://i.pinimg.com/originals/a6/07/9a/a6079a2c7f0052c2f588965881020f42.gif">
+
+</td>
+</tr>
+</table>
+
 ---
 
 ### ⚡ TECH ARMORY
@@ -45,9 +56,12 @@ me.say_hi()
 ---
 
 ### 🔥 CURRENT MISSIONS
-- 🕷️ [Quadruped Spider Bot](https://github.com/DishanDey04/Quadruped_Spider_Bot_12_DOF_V.6.0.git) 
-- ⚡[Smart Grid Project](https://github.com/DishanDey04/Project_Smart_Grid.git)
 
+- 🕷️ [Quadruped Spider Bot](https://github.com/DishanDey04/Quadruped_Spider_Bot_12_DOF_V.6.0.git)
+
+- ⚡ [Smart Grid Project](https://github.com/DishanDey04/Project_Smart_Grid.git)
+
+---
 
 ### 📡 CONNECT WITH ME
 
@@ -102,7 +116,9 @@ me.say_hi()
 ### 🧠 JOURNEY
 
 <p align="center">
+
 <img src="https://github-profile-trophy.vercel.app/?username=DishanDey04&theme=algolia&no-frame=true&row=1&column=7"/>
+
 </p>
 
 ---
@@ -110,7 +126,9 @@ me.say_hi()
 ### ⚡ VISITOR SCANNER
 
 <p align="center">
+
 <img src="https://komarev.com/ghpvc/?username=DishanDey04&label=VISITORS+SCANNED&color=00fff7&style=for-the-badge"/>
+
 </p>
 
 ---
@@ -118,7 +136,9 @@ me.say_hi()
 ### 🚀 QUOTE OF THE SYSTEM
 
 <p align="center">
+
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
 </p>
 
 ---
