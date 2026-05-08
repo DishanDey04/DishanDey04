@@ -127,9 +127,10 @@ me.say_hi()
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=DishanDey04&label=VISITORS+SCANNED&color=00fff7&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=DishanDey04&label=VISITORS+SCANNED&color=0e75b6&style=for-the-badge"/>
 
 </p>
+
 
 ---
 
