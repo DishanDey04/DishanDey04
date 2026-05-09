@@ -55,7 +55,7 @@ me.say_hi()
 
 ---
 
-### 🔥 CURRENT MISSIONS
+### 🔥 CURRENT PROJECTS
 
 - 🕷️ [Quadruped Spider Bot](https://github.com/DishanDey04/Quadruped_Spider_Bot_12_DOF_V.6.0.git)
 
